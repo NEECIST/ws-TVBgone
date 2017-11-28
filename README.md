@@ -27,7 +27,7 @@
 <figure><img src="https://github.com/NEECIST/ws-TVBgone/blob/master/images/1.jpg?raw=trues" width="150" height="150"></figure>
 </div>
 
-![Something](images/1.png)
+![Something](images/1.jpg)
 
 1. Soldar as duas resistências de 1kΩ (castanho, preto, vermelho).
 
