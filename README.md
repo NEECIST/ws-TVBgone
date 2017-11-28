@@ -43,7 +43,7 @@
 
 3. Soldar o suporte para o circuito integrado.
 
-<b>NOTA:</b> a ranhura do suporte deve corresponder ao desenho impresso na placa.
+**NOTA:** a ranhura do suporte deve corresponder ao desenho impresso na placa.
 
 <div>
 <figure><img src="https://github.com/NEECIST/ws-TVBgone/blob/master/images/4.jpg?raw=trues" width="150" height="150"></figure>
@@ -53,7 +53,7 @@
 	A: Condensador Cerâmico (pequeno).
 	B: Condensador Eletrolítico (grande).
 
-<b>NOTA:</b> Deixa alguma margem (≈5mm) entre a placa e a base do condensador eletrolítico para que o possas “deitar” para a direita. Os condensadores eletrolíticos têm polaridade e, portanto, está atento: a “perna” mais comprida tem de ficar junto ao “+”. 
+**NOTA:** Deixa alguma margem (≈5mm) entre a placa e a base do condensador eletrolítico para que o possas “deitar” para a direita. Os condensadores eletrolíticos têm polaridade e, portanto, está atento: a “perna” mais comprida tem de ficar junto ao “+”. 
 
 <div>
 <figure><img src="https://github.com/NEECIST/ws-TVBgone/blob/master/images/5.jpg?raw=trues" width="150" height="150"></figure>
@@ -61,7 +61,7 @@
 
 5. Soldar o switch e o oscilador.
 
-<b>NOTA:</b> Não importa a orientação dos componentes.
+**NOTA:** Não importa a orientação dos componentes.
 
 <div>
 <figure><img src="https://github.com/NEECIST/ws-TVBgone/blob/master/images/6.jpg?raw=trues" width="150" height="150"></figure>
@@ -69,7 +69,7 @@
 
 6. Solda o LED verde. 
 
-<b>NOTA:</b> os LED’s têm polarização, e portanto, inserir a “perna” maior junto ao “+”.
+**NOTA:** os LED’s têm polarização, e portanto, inserir a “perna” maior junto ao “+”.
 
 <div>
 <figure><img src="https://github.com/NEECIST/ws-TVBgone/blob/master/images/7.jpg?raw=trues" width="150" height="150"></figure>
@@ -77,13 +77,13 @@
 
 7. Ligar os cabos do suporte das pilhas, passando-os pelos furos (de baixo para cima).
 
-<b>NOTA:</b> vermelho corresponde ao positivo o e preto corresponde ao negativo.
+**NOTA:** vermelho corresponde ao positivo o e preto corresponde ao negativo.
 
 8. Montar o circuito integrado no suporte respetivo e colocar as pilhas. Nesse momento deves conseguir ver o LED verde a piscar.
 
-<b>NOTA:</b> a bolinha no canto superior esquerdo do circuito integrado deve coincidir com a ranhura do suporte montado anteriormente.
+**NOTA:** a bolinha no canto superior esquerdo do circuito integrado deve coincidir com a ranhura do suporte montado anteriormente.
 
-<b>ATENÇÃO:</b> no fim do teste, retira as pilhas para evitar danos nos componentes e prossegue com o workshop.
+**ATENÇÃO:** no fim do teste, retira as pilhas para evitar danos nos componentes e prossegue com o workshop.
 
 <div>
 <figure><img src="https://github.com/NEECIST/ws-TVBgone/blob/master/images/9.jpg?raw=trues" width="150" height="150"></figure>
@@ -97,7 +97,7 @@
 
 10. Soldar os transístores PN2222.
 
-<b>NOTA:</b> os 4 transístores são iguais, por isso, a posição é irrelevante. Contudo, a montagem deve ser feita seguindo o desenho da placa
+**NOTA:** os 4 transístores são iguais, por isso, a posição é irrelevante. Contudo, a montagem deve ser feita seguindo o desenho da placa
 
 <div>
 <figure><img src="https://github.com/NEECIST/ws-TVBgone/blob/master/images/11.jpg?raw=trues" width="150" height="150"></figure>
@@ -111,10 +111,9 @@
 
 12. Soldar os restantes LED’s infravermelhos.
 
-<b>NOTA:</b> tem em conta a polarização do LED.
+**NOTA:** tem em conta a polarização do LED.
 
 Testa o teu TV-b-GONE na TV mais próxima para verificar se está tudo a funcionar corretamente, mas já sabes: sê responsável, desliga com moderação.
 
-
-<b>BOA SORTE!</b>
+**BOA SORTE!**
 
