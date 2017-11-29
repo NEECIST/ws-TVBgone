@@ -5,19 +5,19 @@
 
 | Components   							|			Quantity		|	Images 		|
 |---------------------------------------|---------------------------|---------------|
-| Resistência 1kΩ 						|				2			|<div><figure><img src="https://github.com/NEECIST/ws-TVBgone/blob/master/images/resistencia_1k.jpg?raw=trues" width="100" height="100"></figure></div>|
-| Resistência 10kΩ						|				1			|<div><figure><img src="https://github.com/NEECIST/ws-TVBgone/blob/master/images/resistencia_10k.jpg?raw=trues" width="100" height="100"></figure></div>|
-| Suporte para o circuito integrado		|				1			|<div><figure><img src="https://github.com/NEECIST/ws-TVBgone/blob/master/images/Suporte_para_o_circuito_integrado.jpg?raw=trues" width="100" height="100"></figure></div>|
-| Condensador Cerâmico		(0.1F)		|				1			|<div><figure><img src="https://github.com/NEECIST/ws-TVBgone/blob/master/images/condensador-ceramico.jpg?raw=trues" width="100" height="100"></figure></div>|
-| Condensador eletrolítico (200uF)		|				1			|<div><figure><img src="https://github.com/NEECIST/ws-TVBgone/blob/master/images/condensador_eletrolitico.jpg?raw=trues" width="100" height="100"></figure></div>|
-| Switch 								|				1			|<div><figure><img src="https://github.com/NEECIST/ws-TVBgone/blob/master/images/switch.jpg?raw=trues" width="100" height="100"></figure></div>|
-| Oscilador 	(8Mhz)					|				1			|<div><figure><img src="https://github.com/NEECIST/ws-TVBgone/blob/master/images/oscilador.jpg?raw=trues" width="100" height="100"></figure></div>|
-| LED verde 							|				1			|<div><figure><img src="https://github.com/NEECIST/ws-TVBgone/blob/master/images/Led_verde.jpg?raw=trues" width="100" height="100"></figure></div>|
-| Suporte para pilhas AA				|				1			|<div><figure><img src="https://github.com/NEECIST/ws-TVBgone/blob/master/images/suporte_pilhas.jpg?raw=trues" width="100" height="100"></figure></div>|
-| Circuito integrado (ATTINY85V-10PU)	|				1			|<div><figure><img src="https://github.com/NEECIST/ws-TVBgone/blob/master/images/circuito_integrado.jpg?raw=trues" width="100" height="100"></figure></div>|
-| Transístor PN2907 					|				1			|<div><figure><img src="https://github.com/NEECIST/ws-TVBgone/blob/master/images/PN2907.jpg?raw=trues" width="100" height="100"></figure></div>|
-| Transístor PN2222 					|				4			|<div><figure><img src="https://github.com/NEECIST/ws-TVBgone/blob/master/images/PN2222.jpg?raw=trues" width="100" height="100"></figure></div>|
-| LED infravermelho 					|				4			|<div><figure><img src="https://github.com/NEECIST/ws-TVBgone/blob/master/images/Led_infravermelho.jpg?raw=trues" width="100" height="100"></figure></div>|
+| Resistência 1kΩ 						|				2			|![Something](images/resistencia_1k.jpg)|
+| Resistência 10kΩ						|				1			|![Something](images/resistencia_10k.jpg)|
+| Suporte para o circuito integrado		|				1			|![Something](images/Suporte_para_o_circuito_integrado.jpg)|
+| Condensador Cerâmico		(0.1F)		|				1			|![Something](images/condensador-ceramico.jpg)|
+| Condensador eletrolítico (200uF)		|				1			|![Something](images/condensador_eletrolitico.jpg)|
+| Switch 								|				1			|![Something](images/switch.jpg)|
+| Oscilador 	(8Mhz)					|				1			|![Something](images/oscilador.jpg)|
+| LED verde 							|				1			|![Something](images/Led_verde.jpg)|
+| Suporte para pilhas AA				|				1			|![Something](images/suporte_pilhas.jpg)|
+| Circuito integrado (ATTINY85V-10PU)	|				1			|![Something](images/circuito_integrado.jpg)|
+| Transístor PN2907 					|				1			|![Something](images/PN2907.jpg)|
+| Transístor PN2222 					|				4			|![Something](images/PN2222.jpg)|
+| LED infravermelho 					|				4			|![Something](images/Led_infravermelho.jpg)|
 
 
 
