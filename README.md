@@ -23,29 +23,21 @@
 
 # Guia de Montagem
 
-<div>
-<figure><img src="https://github.com/NEECIST/ws-TVBgone/blob/master/images/1.jpg?raw=trues" width="150" height="150"></figure>
-</div>
+![Something](images/1.jpg)
 
 1. Soldar as duas resistências de 1kΩ (castanho, preto, vermelho).
 
-<div>
-<figure><img src="https://github.com/NEECIST/ws-TVBgone/blob/master/images/2.jpg?raw=trues" width="150" height="150"></figure>
-</div>
+![Something](images/2.jpg)
 
 2. Soldar a resistência de 10kΩ (castanho, preto, laranja).
 
-<div>
-<figure><img src="https://github.com/NEECIST/ws-TVBgone/blob/master/images/3.jpg?raw=trues" width="150" height="150"></figure>
-</div>
+![Something](images/3.jpg)
 
 3. Soldar o suporte para o circuito integrado.
 
 **NOTA:** a ranhura do suporte deve corresponder ao desenho impresso na placa.
 
-<div>
-<figure><img src="https://github.com/NEECIST/ws-TVBgone/blob/master/images/4.jpg?raw=trues" width="150" height="150"></figure>
-</div>
+![Something](images/4.jpg)
 
 4. Solda os condensadores:
 	A: Condensador Cerâmico (pequeno).
@@ -53,25 +45,20 @@
 
 **NOTA:** Deixa alguma margem (≈5mm) entre a placa e a base do condensador eletrolítico para que o possas “deitar” para a direita. Os condensadores eletrolíticos têm polaridade e, portanto, está atento: a “perna” mais comprida tem de ficar junto ao “+”. 
 
-<div>
-<figure><img src="https://github.com/NEECIST/ws-TVBgone/blob/master/images/5.jpg?raw=trues" width="150" height="150"></figure>
-</div>
+
+![Something](images/5.jpg)
 
 5. Soldar o switch e o oscilador.
 
 **NOTA:** Não importa a orientação dos componentes.
 
-<div>
-<figure><img src="https://github.com/NEECIST/ws-TVBgone/blob/master/images/6.jpg?raw=trues" width="150" height="150"></figure>
-</div>
+![Something](images/6.jpg)
 
 6. Solda o LED verde. 
 
 **NOTA:** os LED’s têm polarização, e portanto, inserir a “perna” maior junto ao “+”.
 
-<div>
-<figure><img src="https://github.com/NEECIST/ws-TVBgone/blob/master/images/7.jpg?raw=trues" width="150" height="150"></figure>
-</div>
+![Something](images/7.jpg)
 
 7. Ligar os cabos do suporte das pilhas, passando-os pelos furos (de baixo para cima).
 
@@ -83,29 +70,21 @@
 
 **ATENÇÃO:** no fim do teste, retira as pilhas para evitar danos nos componentes e prossegue com o workshop.
 
-<div>
-<figure><img src="https://github.com/NEECIST/ws-TVBgone/blob/master/images/9.jpg?raw=trues" width="150" height="150"></figure>
-</div>
+![Something](images/9.jpg)
 
 9. Soldar o transístor PN2907.
 
-<div>
-<figure><img src="https://github.com/NEECIST/ws-TVBgone/blob/master/images/10.jpg?raw=trues" width="150" height="150"></figure>
-</div>
+![Something](images/10.jpg)
 
 10. Soldar os transístores PN2222.
 
 **NOTA:** os 4 transístores são iguais, por isso, a posição é irrelevante. Contudo, a montagem deve ser feita seguindo o desenho da placa
 
-<div>
-<figure><img src="https://github.com/NEECIST/ws-TVBgone/blob/master/images/11.jpg?raw=trues" width="150" height="150"></figure>
-</div>
+![Something](images/11.jpg)
 
 11. Adicionar os LED’s infravermelhos de pernas pintadas na posição indicada. NOTA: deixa uma margem entre a base do LED e a placa, para que o possas inclinar para a frente e tem em conta a polarização (o corte lateral dos LED’s indica a perna negativa).
 
-<div>
-<figure><img src="https://github.com/NEECIST/ws-TVBgone/blob/master/images/12.jpg?raw=trues" width="150" height="150"></figure>
-</div>
+![Something](images/12.jpg)
 
 12. Soldar os restantes LED’s infravermelhos.
 
